@@ -1,0 +1,2 @@
+'aa'.matchAll(/asd/)
+
